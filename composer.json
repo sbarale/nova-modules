@@ -20,7 +20,7 @@
         "php": ">=7.3.15"
     },
     "require-dev": {
-        "laravel/framework": "^5.*",
+        "laravel/framework": "^5.8",
         "laravel/nova": "^2.0"
     },
     "autoload": {
